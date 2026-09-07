@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm Eric Chen
-CUHK Year‑2 undergraduate student, major in Electronic Engineering
-Contact: 125090043@link.cuhk.edu.cn
+- 🌱 Who am I:I’m currently a Year 2 student in CUHKSZ
+- 💬What's my major: Electronic Engineering
+- 📫 How to reach me:12509043@link.cuhk.edu.cn
 <!--
 **EricChen077/EricChen077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
